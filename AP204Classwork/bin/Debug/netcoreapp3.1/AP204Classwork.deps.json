@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AP204Classwork/1.0.0": {
+        "runtime": {
+          "AP204Classwork.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AP204Classwork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
